@@ -1,7 +1,5 @@
 # Supermarket Sales Analysis  
-**BUS708 – Statistics and Data Analysis**  
-**Student ID**: XXX  
-**University**: XXX
+
 
 ## Project Overview
 
